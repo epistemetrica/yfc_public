@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS256",
+      "kid": "your-key-id-here",
+      "n": "PLACEHOLDER_MODULUS_VALUE_HERE",
+      "e": "AQAB"
+    }
+  ]
+}
