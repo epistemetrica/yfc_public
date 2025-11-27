@@ -3,9 +3,9 @@
     {
       "kty": "RSA",
       "use": "sig",
-      "alg": "RS256",
-      "kid": "your-key-id-here",
-      "n": "PLACEHOLDER_MODULUS_VALUE_HERE",
+      "alg": "RS384",
+      "kid": "5e8963db48b06cc5",
+      "n": "uTDpvJbBDUpJjn-fefXin_jQoQr6HsNioRRdL7VE1gMDnEAQBV_QWbopDKmx3U3ePM-tSTcJvp9r51by-vS4K9FvzaxysRfvNhKl5CpS9TvSjZv22A7kWX8bQTWDEyYoJDFfbJet82S4n6s1Ax4z4_VVynwUOByGSzdfqpi8NPkcYfaoTdxcgXf4yCYmP1r-T6HlblO_e4rwiYjPOqBRWMq0aO4rlyvyxo46EwFVfUg0P5hu8YFQUHom_BY1wgovfYMufmhN4BpazCP2bKcwdF-gOOrn4x3wAeGrWqNUlgZVJtalUQP95JcwdFQ6xwmiaJIZAt579d34TCo4kNCw0gr9x7Twfck_dGWItc5aYi81aNfy0vN0MEX-on3fSu6QtDF5bo7Y1ggGRvgk4o-A42RPaTGUiyS13JjlNMi555QGWJJssIqC56TxwE1hl__5K9TDdzh5nmxoDYMRo4cgcFA_gdtVQEGtAl_Bo1aD2Wl_AkMs0i4fY8ElaI2P6SC6KYuismbH3ljEP1bNAAI-RIDJ2sAcTPewZ4xynh9vaUPDAPxtLz6NTnvegHg8u-rm0gA0ARNaCHEmC6JHPK6RIvnqmhqw4RRnPVMY2k8d7Hirps-1DTk5hS1oNWMlhpLr-U-bAhoxmDzLAHB2pDys-aRNZbgB0GOrIh4vfHHnXxU",
       "e": "AQAB"
     }
   ]
